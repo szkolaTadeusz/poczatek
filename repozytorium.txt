@@ -1,0 +1,20 @@
+https://git-scm.com/download/win
+
+git init
+
+git config --global user.email „szkola.tadeusz.kochman@gmail.com”
+git config --global user.name "tkochman"
+
+git status
+
+git add nowum.txt
+
+git commit -m "treœæ"
+
+git remote add origin https://github.com/szkolaTadeusz/poczatek.git
+
+git push -u origin master
+
+git pull --rebase
+
+
